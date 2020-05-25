@@ -1,0 +1,8 @@
+name: cuda_tut
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - numba
+
+  
