@@ -1,8 +1,9 @@
-name: cuda_tut
+name: cuda_tut_env
 dependencies:
   - numpy
   - pandas
-  - scikit-learn
+  - cudatoolkit
   - numba
+  
 
   
